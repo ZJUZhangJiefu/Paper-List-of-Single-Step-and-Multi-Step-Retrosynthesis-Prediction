@@ -50,7 +50,7 @@
 - **Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing** [2023]  
   [Nature Communications](https://www.nature.com/articles/s41467-023-38851-5) | [code](https://github.com/Jamson-Zhong/Graph2Edits)  
 ## Template-Free  
-- **Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models** [2017]
+- **Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models** [2017]  
 [ACS](https://pubs.acs.org/doi/10.1021/acscentsci.7b00303) | [code](https://github.com/pandegroup/reaction_prediction_seq2seq.git)  
 - **Predicting Retrosynthetic Reactions using Self-Corrected Transformer Neural Networks** [2019]  
 [JCIM](https://arxiv.org/ftp/arxiv/papers/1907/1907.01356.pdf) 
