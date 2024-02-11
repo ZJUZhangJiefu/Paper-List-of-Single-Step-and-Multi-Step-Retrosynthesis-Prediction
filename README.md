@@ -114,6 +114,8 @@
 - **Root-aligned SMILES: A Tight Representation for Chemical Reaction Prediction** [2022]  
 [Chemical Science](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d2sc02763a#!) | [code](https://github.com/otori-bird/retrosynthesis)  
 ## Unknown  
+- **Improving the performance of models for one-step retrosynthesis through re-ranking** [2022]  
+[Computing and Software for Big Science](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00594-8) | [code](https://github.com/coleygroup/rxn-ebm)  
 - **Models Matter: The Impact of Single-Step Retrosynthesis on Synthesis Planning** [2023]  
 [Arxiv](https://arxiv.org/abs/2308.05522)  
 - **Recent advances in deep learning for retrosynthesis** [2023]  
