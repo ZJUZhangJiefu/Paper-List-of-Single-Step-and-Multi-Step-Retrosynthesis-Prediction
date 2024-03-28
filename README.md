@@ -48,7 +48,9 @@
 - **SemiRetro: Semi-template framework boosts deep retrosynthesis prediction** [2022]  
 [Arxiv](http://arxiv.org/pdf/2202.08205.pdf)  
 - **Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing** [2023]  
-  [Nature Communications](https://www.nature.com/articles/s41467-023-38851-5) | [code](https://github.com/Jamson-Zhong/Graph2Edits)  
+  [Nature Communications](https://www.nature.com/articles/s41467-023-38851-5) | [code](https://github.com/Jamson-Zhong/Graph2Edits)
+- **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [2023]  
+[Nature Communications](https://www.nature.com/articles/s41467-023-41698-5) | [code](https://github.com/wangyu-sd/RetroExplainer)  
 ## Template-Free  
 - **Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models** [2017]  
 [ACS](https://pubs.acs.org/doi/10.1021/acscentsci.7b00303) | [code](https://github.com/pandegroup/reaction_prediction_seq2seq.git)  
@@ -98,18 +100,18 @@
 [Nature Communications](https://www.nature.com/articles/s41467-023-37969-w) | [code](https://github.com/fangleigit/RetroSub)  
 - **G2GT: Retrosynthesis Prediction with Graph-to-Graph Attention Neural Network and Self-Training** [2023]  
 [JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01302) | [code](https://github.com/Anonnoname/G2GT_2)  
-- **Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks** [2023]  
-[Nature Communications](https://www.nature.com/articles/s41467-023-41698-5) | [code](https://github.com/wangyu-sd/RetroExplainer)  
 - **Unbiasing Retrosynthesis Language Models with Disconnection Prompts** [2023]  
 [ACS Central Science](https://pubs.acs.org/doi/epdf/10.1021/acscentsci.3c00372) | [code](https://github.com/rxn4chemistry/disconnection_aware_retrosynthesis)  
 - **G-MATT: Single-step Retrosynthesis Prediction using Molecular Grammar Tree Transformer** [2023]  
 [AIChE](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.18244) 
-- **RETROBRIDGE: MODELING RETROSYNTHESIS WITH MARKOV BRIDGES** [2023]  
-[Arxiv](https://arxiv.org/pdf/2308.16212.pdf)  
 - **Node-Aligned Graph-to-Graph Generation for Retrosynthesis Prediction** [2023]  
 [Arxiv](https://arxiv.org/pdf/2309.15798.pdf)  
 - **Evolutionary Retrosynthetic Route Planning** [2023]  
 [Arxiv](https://arxiv.org/pdf/2310.05186.pdf)
+- **Learning Chemical Rules of Retrosynthesis with Pre-training** [2023]
+[AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25640)
+- **RETROBRIDGE: MODELING RETROSYNTHESIS WITH MARKOV BRIDGES** [2024]  
+[ICLR 2024](https://arxiv.org/pdf/2308.16212.pdf) | [code](https://github.com/igashov/RetroBridge)
 ## Mixed
 - **Root-aligned SMILES: A Tight Representation for Chemical Reaction Prediction** [2022]  
 [Chemical Science](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d2sc02763a#!) | [code](https://github.com/otori-bird/retrosynthesis)  
@@ -121,4 +123,6 @@
 - **Recent advances in deep learning for retrosynthesis** [2023]  
 [Computational Molecular Science](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1694)  
 - **Re-evaluating Retrosynthesis Algorithms with Syntheseus** [2023]  
-[Arxiv](https://arxiv.org/pdf/2310.19796.pdf)  
+[Arxiv](https://arxiv.org/pdf/2310.19796.pdf)
+- **ACTIVE RETROSYNTHETIC PLANNING AWARE OF ROUTE QUALITY** [2024]  
+[ICLR 2024](https://openreview.net/forum?id=h7DGnWGeos)
